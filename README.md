@@ -9,7 +9,10 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 ## Sommaire
 - Généralités sur le titre CDA
 - Mise en place d'un environnement de travail *(compétence 1)*
+    - Optimisation du flux de travail
+    - Windows
     - Linux
+    - Mac
     - Visual studio code
     - Ecplise
     - IntelliJ
