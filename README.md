@@ -71,6 +71,7 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - UI/UX
 - Anglais
 - Développement personnel
+- Clean code
 
 ## Contribution
 
