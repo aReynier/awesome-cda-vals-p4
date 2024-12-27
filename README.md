@@ -15,7 +15,7 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - [Linux](./01-work-environment/01-02-linux.md)
     - [Mac](./01-work-environment/01-03-mac.md)
     - [Visual studio code](./01-work-environment/01-04-vscode.md)
-    - [Ecplise](./01-work-environment/01-05-eclipse.md)
+    - [Eclipse](./01-work-environment/01-05-eclipse.md)
     - [IntelliJ](./01-work-environment/01-06-intellij.md)
 - Orientation professionnelle
     - [Ressources métiers du développement](./02-career-guidance/02-01-dev-occupations.md)
