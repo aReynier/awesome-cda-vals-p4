@@ -35,5 +35,5 @@ Medium, site d'articles gratuites et payants, comporte entre autres des articles
 https://medium.com/
 
 Freecode camp, site et chaine youtube de partage de vidéos: \
-https://www.freecodecamp.org/ \
+https://www.freecodecamp.org/
 https://www.youtube.com/@freecodecamp
