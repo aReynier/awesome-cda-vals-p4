@@ -17,6 +17,8 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - Ressources métiers du développement
 - Gestion de projet *(compétence 4)*
     - Gestion de projet
+- Cybersécurité
+    - Cybersécurité
 - Analyse du besoin/spécifications fonctionnelles *(compétence 5)*
     - Établir des problématiques
     - Cerner les enjeux du client (contraintes et opportunités)
