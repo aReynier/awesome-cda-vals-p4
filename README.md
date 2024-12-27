@@ -80,6 +80,7 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 - Développement personnel
 - Clean code
 - UI/UX
+- Vrac/détente
 
 ## Contribution
 
