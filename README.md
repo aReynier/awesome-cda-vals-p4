@@ -12,7 +12,7 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - Visual studio code
     - Ecplise
     - IntelliJ
-- Orientation
+- Orientation professionnelle
     - Ressources métiers du développement
 - Gestion de projet *(compétence 4)*
     - Gestion de projet
@@ -70,6 +70,12 @@ docs(normal-forms): Add link
 ```
 Pour le moment je fixe à un commit par catégorie de lien, nous pourrons revoir cette règle si besoin.
 - 2/b: Vous souhaitez modifier la structure? Dans ce cas là, je vous invite également à ajouter un scope si ça concerne une sous partie. Et dans l'intitullé il peut être bien d'indiquer l'opération, si il y a modification, suppression etc.
+- 2/c: Toute correction est égelment la bienvenue, dans ces cas là, au lieu de docs, employez le mot clé fix:
+exemple
+```
+fix(README): correct some typos"
+```
+
 - 3: Enfin, l'idée est de le présenter en pull request. Pour le moment c'est la créatrice de ce dépôt qui les acceptera, mais si d'autres personnes se joignent au projet nous pourrons partager cette tâche.
 
 
