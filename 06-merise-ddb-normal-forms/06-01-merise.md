@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=NZIi6b72NBk
 Cours dictionnaire de données: \
 https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/grain3_2.html
 
+Article dictionnaire de données: \
+https://www.limpida.com/blog/dictionnaire-donnees#:~:text=Un%20dictionnaire%20de%20donn%C3%A9es%20est,et%20l'utilisation%20des%20donn%C3%A9es
+
 Des articles: \
 https://www.base-de-donnees.com/mld/ \
 https://www.base-de-donnees.com/mcd/ \
