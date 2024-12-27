@@ -27,6 +27,7 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - SQL
     - Formes normales
 - UML *(compétence 5)*
+    - UML
 - Choix de la stack technique *(compétence 6)*
     - Choix de la stack technique
 - CI/CD 
@@ -50,6 +51,7 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 - UI/UX
     - UI/UX
 - Anglais
+- Développement personnel
 
 ## Contribution
 
@@ -64,7 +66,7 @@ Pour y contribuer:
 
 (je le fais en anglais, mais si vous préférez le français on pourra switcher de langue.)
 
-Le principal ici est de mettre un "scope" correspond à la partie correpondante pour savoir où le lien a été rajouté. Par exemple, pour un lien concernant les formes normales:
+Le principal ici est de mettre un "scope" correspond à la partie correpondante pour savoir où le lien a été rajouté, pour le moment, pas besoin d'ajouter les numéros de partie. Par exemple, pour un lien concernant les formes normales:
 ```
 docs(normal-forms): Add link
 ```
