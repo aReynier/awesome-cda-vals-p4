@@ -16,3 +16,9 @@ https://www.base-de-donnees.com/mpd/
 
 Article linkedin qui explique la marche à suivre du dictionnaire de donnée au MPD: \
 https://www.linkedin.com/pulse/merise-comment-cr%C3%A9er-un-dictionnaire-de-donn%C3%A9es-mpd-mod%C3%A8le-venturino/
+
+gnome look, outil pour générer des tables de données: \
+https://www.gnome-look.org/p/1168424
+
+Looping: \
+https://www.looping-mcd.fr/
