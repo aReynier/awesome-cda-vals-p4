@@ -32,6 +32,8 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 - Merise/BDD/Formes normales *(compétence 7)*
     - Merise
     - SQL
+    - BDD
+        - Postgres
     - Formes normales
 - UML *(compétence 5)*
     - UML
