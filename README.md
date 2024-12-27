@@ -7,6 +7,7 @@ Le but de ce dépôt est de regrouper le meilleur des ressources partagées pend
 Actuellement, le sommaire initial est calqué sur la chronologie des daily objectives, il évoluera peut être.
 
 ## Sommaire
+- Généralités titre
 - Mise en place d'un environnement de travail *(compétence 1)*
     - Linux
     - Visual studio code
@@ -30,14 +31,14 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - UML
 - Choix de la stack technique *(compétence 6)*
     - Choix de la stack technique
-- CI/CD 
+- CI/CD *(compétence 10+11)*
     - CI/CD
-- Développement D'API (back-end)
+- Développement D'API (back-end) *(compétence 3+8)*
     - Développement d'API
-- Testing
+- Testing *(compétence 9)*
     - Tests unitaires
     - Tests end-to-end
-- Développement front
+- Développement front *(compétence 2)*
     - Développement front
 - Discord
     - Discord
