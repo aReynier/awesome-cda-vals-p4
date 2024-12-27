@@ -69,11 +69,11 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - C#
         - c# vanilla
         - .NET
-- UI/UX
     - UI/UX
 - Anglais
 - Développement personnel
 - Clean code
+- UI/UX
 
 ## Contribution
 
