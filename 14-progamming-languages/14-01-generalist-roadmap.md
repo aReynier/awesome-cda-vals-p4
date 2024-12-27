@@ -1,5 +1,8 @@
 # Sites web généraliste et roadmap
 
+Cours de base sur le fonctionnement du web: \
+https://openclassrooms.com/fr/courses/1946386-comprendre-le-web
+
 Site de roadmaps sur plein de langages:\
 https://roadmap.sh/
 
