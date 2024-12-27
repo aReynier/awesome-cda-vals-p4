@@ -22,3 +22,8 @@ https://www.gnome-look.org/p/1168424
 
 Looping: \
 https://www.looping-mcd.fr/
+
+
+Livre de référence sur la méthode Merise: \
+ \_La méthode, principes et outils\_ de Hubert Tardieu, Arnold Rochfeld et René Colletti  \
+https://www.amazon.fr/m%C3%A9thode-Merise-Principes-outils/dp/2708124730
