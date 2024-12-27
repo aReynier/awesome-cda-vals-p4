@@ -5,3 +5,6 @@ https://www.freecodecamp.org/
 
 Générateur CRON: \
 https://www.uptimia.com/cron-expression-generator
+
+Comment créer un Trigger: \
+https://www.postgresql.org/docs/current/sql-createtrigger.html
