@@ -8,79 +8,84 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 
 ## Sommaire
 - Généralités sur le titre CDA
+    - [Généralités sur le titre CDA](./00-title-generalities/00-01-title-generalities.md)
 - Mise en place d'un environnement de travail *(compétence 1)*
-    - Optimisation du flux de travail
-    - Windows
-    - Linux
-    - Mac
-    - Visual studio code
-    - Ecplise
-    - IntelliJ
+    - [Optimisation du flux de travail](./01-work-environment/01-00-optimisation.md)
+    - [Windows](./01-work-environment/01-01-windows.md)
+    - [Linux](./01-work-environment/01-02-linux.md)
+    - [Mac](./01-work-environment/01-03-mac.md)
+    - [Visual studio code](./01-work-environment/01-04-vscode.md)
+    - [Ecplise](./01-work-environment/01-05-eclipse.md)
+    - [IntelliJ](./01-work-environment/01-06-intellij.md)
 - Orientation professionnelle
-    - Ressources métiers du développement
+    - [Ressources métiers du développement](./02-career-guidance/02-01-dev-occupations.md)
 - Gestion de projet *(compétence 4)*
-    - Gestion de projet
+    - [Gestion de projet](./03-project-management/03-01-project-management.md)
+    - [Documentation et markdown](./03-project-management/03-02-documentation-markdown.md)
 - Cybersécurité
-    - Cybersécurité
+    - [Cybersécurité](./04-cybersecurity/04-01-cybersecurity.md)
 - Analyse du besoin/spécifications fonctionnelles *(compétence 5)*
-    - Cerner les enjeux du client (contraintes et opportunités)
-    - Établir des problématiques
-    - Exigences fonctionnelles
-    - Règles de gestion
-    - User stories
-    - Prise en main de Jira
+    - [Cerner les enjeux du client (contraintes et opportunités)](./05-needs-functionnal-specifications/05-01-client-issues.md)
+    - [Établir des problématiques](./05-needs-functionnal-specifications/05-02-problematic.md)
+    - [Exigences fonctionnelles](./05-needs-functionnal-specifications/05-03-functionnal-requirements.md)
+    - [Règles de gestion](./05-needs-functionnal-specifications/05-04-management-rules.md)
+    - [User stories](./05-needs-functionnal-specifications/05-05-user-stories.md)
+    - [Prise en main de Jira](./05-needs-functionnal-specifications/05-06-jira.md)
 - Merise/BDD/Formes normales *(compétence 7)*
-    - Merise
-    - SQL
+    - [Merise](./06-merise-ddb-normal-forms/06-01-merise.md)
+    - [SQL](./06-merise-ddb-normal-forms/06-02-sql.md)
     - BDD
-        - Postgres
-    - Formes normales
+        - [Postgres](./06-merise-ddb-normal-forms/06-03-ddb.md/postgres.md)
+    - [Formes normales](./06-merise-ddb-normal-forms/06-04-normal-forms.md)
 - UML *(compétence 5)*
-    - UML
+    - [UML](./07-uml/07-01-uml.md)
 - Choix de la stack technique *(compétence 6)*
-    - Choix de la stack technique
+    - [Choix de la stack technique](./08-technical-stack/08-01-technical-stack.md)
 - CI/CD *(compétence 10+11)*
-    - CI/CD
+    - [CI/CD](./09-ci-cd/09-01-ci-cd.md)
 - Développement D'API (back-end) *(compétence 3+8)*
-    - Développement d'API
+    - [Développement d'API](./10-api-development/10-01-api-development.md)
 - Testing *(compétence 9)*
-    - Tests unitaires
-    - Tests end-to-end
+    - [Tests unitaires](./11-testing/11-01-unit-test.md)
+    - [Tests end-to-end](./11-testing/11-02-e-2-e-test.md)
 - Développement front *(compétence 2)*
-    - Développement front
+    - [Développement front](./12-front-dev/12-01-front-dev.md)
 - Discord
-    - Discord
+    - [Discord](./13-discord/13-01-discord.md)
 - Langages de programmation
-    - ressources généralistes & roadmaps
+    - [ressources généralistes & roadmaps](./14-progamming-languages/14-01-generalist-roadmap.md)
     - HTML
-        - Bases
-        - Accessibilité
+        - [HTML](./14-progamming-languages/14-02-html/13-02-01-html-bases.md)
     - CSS
-        - CSS vanilla
-        - Sass
-        - Tailwind
+        - [CSS vanilla](./14-progamming-languages/14-03-css/13-03-01-css-vanilla.md)
+        - [Sass](./14-progamming-languages/14-03-css/13-03-02-sass.md)
+        - [Tailwind](./14-progamming-languages/14-03-css/13-03-03-tailwind.md)
     - JavaScript
-        - JavaScript vanilla
-        - React
-        - VueJS
-        - Angular
+        - [JavaScript vanilla](./14-progamming-languages/14-04-js/13-04-01-js-vanilla.md)
+        - [React](./14-progamming-languages/14-04-js/13-04-02-react.md)
+        - [VueJS](./14-progamming-languages/14-04-js/13-04-03-vuejs.md)
+        - [Angular](./14-progamming-languages/14-04-js/13-04-04-angular.md)
     - Java
-        - Java vanilla
-        - Sprint boot
+        - [Java vanilla](./14-progamming-languages/14-05-java/13-05-01-java-vanilla.md)
+        - [Sprint boot](./14-progamming-languages/14-05-java/13-05-02-spring-boot.md)
     - Python
-        - Python
+        - [Python](./14-progamming-languages/14-06-python/13-06-01-python.md)
     - PHP
-        - PHP vanilla
-        - Symphony
+        - [PHP vanilla](./14-progamming-languages/14-07-php/13-07-01-php-vanilla.md)
+        - [Symphony](./14-progamming-languages/14-07-php/14-07-02-symphony.md)
     - C#
-        - c# vanilla
-        - .NET
-    - UI/UX
+        - [c# vanilla](./14-progamming-languages/14-08-c#/13-08-01-c#-vanilla.md)
+        - [.NET](./14-progamming-languages/14-08-c#/13-08-02-dotnet.md)
 - Anglais
+    - [Anglais](./15-english/15-01-english.md)
 - Développement personnel
+    - [Développement personnel](./16-personnal-development/16-01-personnal-development.md)
 - Clean code
+    - [Clean code](./17-clean-code/17-01-clean-code.md)
 - UI/UX
+    - [UI/UX](./18-ui-ux/18-01-ui-ux.md)
 - Vrac/détente
+    - [Vrac/détente](./19-miscellaneous-recreation/19-01-miscellaneous-recreation.md)
 
 ## Contribution
 
