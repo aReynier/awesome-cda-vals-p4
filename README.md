@@ -43,12 +43,30 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 - Discord
     - Discord
 - Langages de programmation
+    - ressources généralistes & roadmaps
+    - HTML
+        - Bases
+        - Accessibilité
+    - CSS
+        - CSS vanilla
+        - Sass
+        - Tailwind
     - JavaScript
+        - JavaScript vanilla
+        - React
+        - VueJS
+        - Angular
     - Java
-    - Spring boot
+        - Java vanilla
+        - Sprint boot
     - Python
+        - Python
     - PHP
-    - .NET
+        - PHP vanilla
+        - Symphony
+    - C#
+        - c# vanilla
+        - .NET
 - UI/UX
     - UI/UX
 - Anglais
