@@ -11,12 +11,13 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - [Généralités sur le titre CDA](./00-title-generalities/00-01-title-generalities.md)
 - Mise en place d'un environnement de travail *(compétence 1)*
     - [Optimisation du flux de travail](./01-work-environment/01-00-optimisation.md)
-    - [Windows](./01-work-environment/01-01-windows.md)
-    - [Linux](./01-work-environment/01-02-linux.md)
-    - [Mac](./01-work-environment/01-03-mac.md)
-    - [Visual studio code](./01-work-environment/01-04-vscode.md)
-    - [Eclipse](./01-work-environment/01-05-eclipse.md)
-    - [IntelliJ](./01-work-environment/01-06-intellij.md)
+    - [git](./01-work-environment/01-01-git.md)
+    - [Windows](./01-work-environment/01-02-windows.md)
+    - [Linux](./01-work-environment/01-03-linux.md)
+    - [Mac](./01-work-environment/01-04-mac.md)
+    - [Visual studio code](./01-work-environment/01-05-vscode.md)
+    - [Eclipse](./01-work-environment/01-06-eclipse.md)
+    - [IntelliJ](./01-work-environment/01-07-intellij.md)
 - Orientation professionnelle
     - [Ressources métiers du développement](./02-career-guidance/02-01-dev-occupations.md)
 - Gestion de projet *(compétence 4)*
