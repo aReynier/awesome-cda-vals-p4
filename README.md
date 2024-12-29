@@ -85,6 +85,8 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - [Clean code](./17-clean-code/17-01-clean-code.md)
 - UI/UX
     - [UI/UX](./18-ui-ux/18-01-ui-ux.md)
+- Veille
+    - veille
 - Vrac/détente
     - [Vrac/détente](./19-miscellaneous-recreation/19-01-miscellaneous-recreation.md)
 
