@@ -43,6 +43,9 @@ https://www.linkedin.com/in/tontonkarim/
 Jeremy Lamri, poste souvent des articles au sujet du RH lié aux nouvelles technolgies: \
 https://www.linkedin.com/in/jeremylamri/
 
+Le blog je suis en dev: \
+https://www.jesuisundev.com/
+
 ## Compétences diverses
 Pour apprendre la dactylo: \
 https://www.edclub.com/fr/library/expedition-dactylo
