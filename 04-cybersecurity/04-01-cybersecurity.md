@@ -26,4 +26,7 @@ Podcast tronche de tech sur un pentester (test d'intrusion de sécurité dans le
 https://www.youtube.com/watch?v=IBhPIwboUJY \
 https://open.spotify.com/episode/4eQCbkILIla5p9HM21V2VA
 
+MOOC du CNAM sur le RGPD: \
+https://www.fun-mooc.fr/fr/cours/le-rgpd-7-ans-apres-fondamentaux-et-nouveaux-enjeux/
+
 [Retour à l'accueil](../README.md)
