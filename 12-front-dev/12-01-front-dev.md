@@ -37,9 +37,6 @@ https://accessibilite.numerique.gouv.fr/
 Cours openClassroom d'introduction à l'accesibilité: \
 https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible
 
-Cholé Ngassa, personne sur linkedin qui donne plein de conseils sur le recrutement et le CV: \
-https://www.linkedin.com/in/chloengassa/
-
 Sandra Bossard, sensibilisation à l'accessibilité: \
 https://www.linkedin.com/in/sandrabossard/recent-activity/all/
 
