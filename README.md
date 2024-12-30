@@ -26,12 +26,12 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 - Cybersécurité
     - [Cybersécurité](./04-cybersecurity/04-01-cybersecurity.md)
 - Analyse du besoin/spécifications fonctionnelles *(compétence 5)*
-    - [Cerner les enjeux du client (contraintes et opportunités)](./05-needs-functionnal-specifications/05-01-client-issues.md)
-    - [Établir des problématiques](./05-needs-functionnal-specifications/05-02-problematic.md)
-    - [Exigences fonctionnelles](./05-needs-functionnal-specifications/05-03-functionnal-requirements.md)
-    - [Règles de gestion](./05-needs-functionnal-specifications/05-04-management-rules.md)
-    - [User stories](./05-needs-functionnal-specifications/05-05-user-stories.md)
-    - [Prise en main de Jira](./05-needs-functionnal-specifications/05-06-jira.md)
+    - [Cerner les enjeux du client (contraintes et opportunités)](./05-needs-functional-specifications/05-01-client-issues.md)
+    - [Établir des problématiques](./05-needs-functional-specifications/05-02-problematic.md)
+    - [Exigences fonctionnelles](./05-needs-functional-specifications/05-03-functional-requirements.md)
+    - [Règles de gestion](./05-needs-functional-specifications/05-04-management-rules.md)
+    - [User stories](./05-needs-functional-specifications/05-05-user-stories.md)
+    - [Prise en main de Jira](./05-needs-functional-specifications/05-06-jira.md)
 - Merise/BDD/Formes normales *(compétence 7)*
     - [Merise](./06-merise-ddb-normal-forms/06-01-merise.md)
     - [SQL](./06-merise-ddb-normal-forms/06-02-sql.md)
