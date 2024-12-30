@@ -69,4 +69,10 @@ https://www.youtube.com/@DevoxxFRvideos
 Abondance, Chaine youtube axée SEO: \
 https://www.youtube.com/@Abondanceseo/featured
 
+Dépôt github de parcours de dev pour autodidacte: \
+https://github.com/jwasham/coding-interview-university
+
+Leetcode, platform d'entrainement: \
+https://leetcode.com/
+
 [Retour à l'accueil](../README.md)
