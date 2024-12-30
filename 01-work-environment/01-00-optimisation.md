@@ -15,9 +15,14 @@ https://obsidian.md/
 
 Notion, application en ligne qui peut servir de kaban, prise de note et pleins d'autres fonctionnalités pour qui a le temps de le paramétrer: \
 https://www.notion.so
+Posibilité de trouver des templates pré paramétrés comme par exemple ceux de Julien Lesourd: \
+https://www.notion.com/@julien-lesourd
 
 Evernote, application qui peut être utile pour rassembler des notes de recherche: \
 https://evernote.com/fr-fr
+
+Zapier, outil d'automatisation de workflow: \
+https://zapier.com/
 
 ## markdown
 

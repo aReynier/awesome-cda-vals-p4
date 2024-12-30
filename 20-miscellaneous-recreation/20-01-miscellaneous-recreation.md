@@ -37,14 +37,47 @@ https://www.youtube.com/@Sandozprod
 Vivien Laplane, conférencier sourd qui sensibilise sur le sujet: \
 https://www.linkedin.com/in/vivien-laplane/
 
-Tonton Karim, consseils en recreutement et partage souvent des noms d'entreprises qui recrutent: \
-https://www.linkedin.com/in/tontonkarim/
-
 Jeremy Lamri, poste souvent des articles au sujet du RH lié aux nouvelles technolgies: \
 https://www.linkedin.com/in/jeremylamri/
 
 Le blog je suis en dev: \
 https://www.jesuisundev.com/
+
+
+## Podcasts
+
+estamitech: \
+https://estamitech.fr/
+
+human coders: \
+https://www.humancoders.com/pages/podcast
+
+Les meneuses, sur les femmes dans la tech: \
+https://podcast.ausha.co/les-meneuses
+
+if this then dev, podcast en français: \
+https://www.ifttd.io/
+
+tech lead corner: \
+https://podcast.ausha.co/tech-lead-corner-3
+
+soft skils, podcast en anglais: \
+https://softskills.audio/
+
+developer experience, podcast en français: \
+https://podcast.ausha.co/developer-experience
+
+punkin dev, podcast en français: \
+https://podcast.ausha.co/punkindev 
+
+dategen, podcast du la data: \
+https://www.datageneration.co/#CTA
+
+axopen podcast, mensuel de dev et nouvelle technologie: \
+https://podcast.ausha.co/axopen
+
+L'echo des gnous, podcast sur le libre: \
+https://www.echodesgnous.org/
 
 ## Compétences diverses
 Pour apprendre la dactylo: \
@@ -66,6 +99,7 @@ https://www.youtube.com/@KhanAcademyLabs
 
 Mohammed Nassiri, professeur de math créateur de contenu autour des math: \
 https://www.linkedin.com/in/mohamed-nassiri/ \
+
 www.coquillagesetpoincare.fr \
 https://www.youtube.com/@IrissanDemahom/featured
 
@@ -73,6 +107,12 @@ Nina Ramen, copywriter qui aide les femmes à créer du contenu sur les réseaux
 https://www.linkedin.com/in/nina-ramen-copywriter/ \
 https://ramentafraise.com/challenge-decriture-linkedin/
 
+Ted, site de conférences incontournable sur pleins de sujets: \
+https://www.ted.com/
 
+## Communautés
+
+Les brackeuses, collectif sur le thème du hack, le discord est ouvert aux femmes comme aux hommes: \
+https://linktr.ee/brhackeuses
 
 [Retour à l'accueil](../README.md)

@@ -20,18 +20,21 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - [IntelliJ](./01-work-environment/01-07-intellij.md)
 - Orientation professionnelle
     - [Ressources métiers du développement](./02-career-guidance/02-01-dev-occupations.md)
+    - [Sites de recherche d'emploi](./02-career-guidance/02-02-job-search-websites.md)
+    - [Articles/conseils](./02-career-guidance/02-03-job-advices.md)
+    - [tests techniques](./02-career-guidance/02-04-technical-tests.md)
 - Gestion de projet *(compétence 4)*
     - [Gestion de projet](./03-project-management/03-01-project-management.md)
     - [Documentation et markdown](./03-project-management/03-02-documentation-markdown.md)
 - Cybersécurité
     - [Cybersécurité](./04-cybersecurity/04-01-cybersecurity.md)
 - Analyse du besoin/spécifications fonctionnelles *(compétence 5)*
-    - [Cerner les enjeux du client (contraintes et opportunités)](./05-needs-functionnal-specifications/05-01-client-issues.md)
-    - [Établir des problématiques](./05-needs-functionnal-specifications/05-02-problematic.md)
-    - [Exigences fonctionnelles](./05-needs-functionnal-specifications/05-03-functionnal-requirements.md)
-    - [Règles de gestion](./05-needs-functionnal-specifications/05-04-management-rules.md)
-    - [User stories](./05-needs-functionnal-specifications/05-05-user-stories.md)
-    - [Prise en main de Jira](./05-needs-functionnal-specifications/05-06-jira.md)
+    - [Cerner les enjeux du client (contraintes et opportunités)](./05-needs-functional-specifications/05-01-client-issues.md)
+    - [Établir des problématiques](./05-needs-functional-specifications/05-02-problematic.md)
+    - [Exigences fonctionnelles](./05-needs-functional-specifications/05-03-functional-requirements.md)
+    - [Règles de gestion](./05-needs-functional-specifications/05-04-management-rules.md)
+    - [User stories](./05-needs-functional-specifications/05-05-user-stories.md)
+    - [Prise en main de Jira](./05-needs-functional-specifications/05-06-jira.md)
 - Merise/BDD/Formes normales *(compétence 7)*
     - [Merise](./06-merise-ddb-normal-forms/06-01-merise.md)
     - [SQL](./06-merise-ddb-normal-forms/06-02-sql.md)
