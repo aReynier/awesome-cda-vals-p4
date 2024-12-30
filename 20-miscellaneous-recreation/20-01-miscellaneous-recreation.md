@@ -37,9 +37,6 @@ https://www.youtube.com/@Sandozprod
 Vivien Laplane, conférencier sourd qui sensibilise sur le sujet: \
 https://www.linkedin.com/in/vivien-laplane/
 
-Tonton Karim, consseils en recreutement et partage souvent des noms d'entreprises qui recrutent: \
-https://www.linkedin.com/in/tontonkarim/
-
 Jeremy Lamri, poste souvent des articles au sujet du RH lié aux nouvelles technolgies: \
 https://www.linkedin.com/in/jeremylamri/
 
@@ -66,6 +63,7 @@ https://www.youtube.com/@KhanAcademyLabs
 
 Mohammed Nassiri, professeur de math créateur de contenu autour des math: \
 https://www.linkedin.com/in/mohamed-nassiri/ \
+
 www.coquillagesetpoincare.fr \
 https://www.youtube.com/@IrissanDemahom/featured
 
