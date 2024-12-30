@@ -75,4 +75,10 @@ https://github.com/jwasham/coding-interview-university
 Leetcode, platform d'entrainement: \
 https://leetcode.com/
 
+## Challenges généralistes
+
+100 days of code: \
+https://www.100daysofcode.com/
+
+
 [Retour à l'accueil](../README.md)
