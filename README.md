@@ -20,6 +20,9 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - [IntelliJ](./01-work-environment/01-07-intellij.md)
 - Orientation professionnelle
     - [Ressources métiers du développement](./02-career-guidance/02-01-dev-occupations.md)
+    - [Sites de recherche d'emploi](./02-career-guidance/02-02-job-search-websites.md)
+    - [Articles/conseils](./02-career-guidance/02-03-job-advices.md)
+    - [tests techniques](./02-career-guidance/02-04-technical-tests.md)
 - Gestion de projet *(compétence 4)*
     - [Gestion de projet](./03-project-management/03-01-project-management.md)
     - [Documentation et markdown](./03-project-management/03-02-documentation-markdown.md)
