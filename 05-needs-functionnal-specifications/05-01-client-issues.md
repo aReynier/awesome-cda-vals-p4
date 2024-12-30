@@ -11,6 +11,16 @@ https://www.linkedin.com/advice/0/how-do-you-analyze-clients-context-before-cons
 Article sur 5 pièges à éviter dans la description d'un contexte client: \
 https://www.xait.com/fr/blog/les-5-pieges-a-eviter-dans-la-description-du-contexte-client-dune-proposition-commerciale
 
+## Benchmark concurentiel
+Article sur comment réaliser un benchmark concurentiel: \
+https://bpifrance-creation.fr/moment-de-vie/benchmark-comment-analyser-vos-concurrents
+
+Article qui explique ce qu'est un benchmark et différents types de benchmarks existant: \
+https://www.1min30.com/dictionnaire-du-web/benchmark
+
+Définition d'un benchmark das le cadre d'un cours complet d'openClassrooms sur la réalisation d'un benchmak: \
+https://openclassrooms.com/fr/courses/5774771-realisez-un-benchmark-digital/5774778-decouvrez-ce-quest-un-benchmark
+
 
 ## besoins
 définition de besoins: \
@@ -41,5 +51,8 @@ https://www.linkedin.com/advice/0/what-some-alternative-models-swot-analysis?lan
 
 Article en anglais qui donne d'autres alternatives à l'analyse SWOT: \
 https://roadmunk.com/product-management-blog/alternatives-to-swot-analysis/
+
+PESTEL, autre outil qui permet de mesurer les contraintes et opportunités: \
+https://www.lecoindesentrepreneurs.fr/analyse-pestel-definition-outil-et-composants/
 
 [Retour à l'accueil](../README.md)
