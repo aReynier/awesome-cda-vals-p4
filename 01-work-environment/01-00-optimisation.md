@@ -4,9 +4,6 @@
 Outils permettant de rassembler plusieurs outils dans un même endroit:\
 https://clickup.com/
 
-Raccourcis terminal: \
-https://www-npa.lip6.fr/~fourmaux/www-l2ti.univ-paris13.fr/~fourmaux/stages/routeurcisco/site%20web%20Cisco/man_8.htm#:~:text=CTRL%20E%20%3A%20positionne%20le%20curseur,de%20la%20ligne%20de%20commande
-
 Log seq, Application de prise de note en markdown: \
 https://logseq.com/
 
@@ -41,6 +38,14 @@ https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 Documentation github sur comment écrire sur github: \
 https://docs.github.com/fr/get-started/writing-on-github
 
+## Terminal
+Commndes de bases du terminal: \
+https://builtin.com/software-engineering-perspectives/terminal-commands
 
+Raccourcis terminal: \
+https://www-npa.lip6.fr/~fourmaux/www-l2ti.univ-paris13.fr/~fourmaux/stages/routeurcisco/site%20web%20Cisco/man_8.htm#:~:text=CTRL%20E%20%3A%20positionne%20le%20curseur,de%20la%20ligne%20de%20commande
+
+Cours openClassrooms sur le terminal: \
+https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal
 
 [Retour à l'accueil](../README.md)
