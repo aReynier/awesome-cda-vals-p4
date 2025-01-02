@@ -4,6 +4,9 @@
 Cours de base sur le fonctionnement du web: \
 https://openclassrooms.com/fr/courses/1946386-comprendre-le-web
 
+article d'artisan codeur sur la différence entre un développeur et un codeur: \
+https://artisandeveloppeur.fr/developpeur-ou-codeur/
+
 Site de roadmaps sur plein de langages:\
 https://roadmap.sh/
 
