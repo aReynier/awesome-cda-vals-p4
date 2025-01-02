@@ -1,6 +1,9 @@
 [Retour à l'accueil](../README.md)
 # Merise
 
+Vidéo d'intrduction à la méthode Merise: \
+https://www.youtube.com/watch?v=rF4McITf7vg
+
 Un cours MCD MLD MPD: \
 https://www.youtube.com/watch?v=NZIi6b72NBk
 
