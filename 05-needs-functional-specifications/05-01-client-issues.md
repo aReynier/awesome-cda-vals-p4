@@ -55,4 +55,16 @@ https://roadmunk.com/product-management-blog/alternatives-to-swot-analysis/
 PESTEL, autre outil qui permet de mesurer les contraintes et opportunités: \
 https://www.lecoindesentrepreneurs.fr/analyse-pestel-definition-outil-et-composants/
 
+
+## Comment poser des questiosn au client
+article qui donne des pistes de questions avec diverses méthodes: \
+https://www.manager-go.com/efficacite-professionnelle/poser-de-bonnes-questions.htm
+
+## Résoudres les problèmes de ces clients
+Article avec des méthodes de résolution de problème de l'identification de ces prolème a l'évaluation des solutions: \
+https://blog-gestion-de-projet.com/methode-de-resolution-de-probleme/
+
+Autre article avec des stratégies de résolution de problème: \
+https://asana.com/fr/resources/problem-solving-strategies
+
 [Retour à l'accueil](../README.md)

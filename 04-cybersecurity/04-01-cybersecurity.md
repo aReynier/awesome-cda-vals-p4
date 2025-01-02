@@ -29,4 +29,11 @@ https://open.spotify.com/episode/4eQCbkILIla5p9HM21V2VA
 MOOC du CNAM sur le RGPD: \
 https://www.fun-mooc.fr/fr/cours/le-rgpd-7-ans-apres-fondamentaux-et-nouveaux-enjeux/
 
+
+pratiques cnil pour différents types de sites: \
+https://www.cnil.fr/fr/rgpd-en-pratique-communiquer-en-ligne  
+
+guide cnil petites et moyennes entreprises: \
+https://www.cnil.fr/sites/cnil/files/atoms/files/bpi-cnil-rgpd_guide-tpe-pme.pdf
+
 [Retour à l'accueil](../README.md)
