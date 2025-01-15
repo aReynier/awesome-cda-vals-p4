@@ -64,3 +64,14 @@
 | `docker-compose ps` | Liste les services | `docker-compose ps` |
 | `docker-compose logs` | Affiche les logs | `docker-compose logs api` |
 | `docker-compose restart` | Redémarre les services | `docker-compose restart` |
+
+## Options Courantes pour docker run
+
+| Option | Description | Exemple |
+|--------|-------------|---------|
+| `-d` | Mode détaché | `docker run -d nginx` |
+| `-p` | Mapping de ports | `docker run -p 8080:80 nginx` |
+| `-v` | Monte un volume | `docker run -v /data:/app nginx` |
+| `-e` | Variable d'environnement | `docker run -e DB_HOST=localhost mysql` |
+| `--name` | Nom du conteneur | `docker run --name mon-nginx nginx` |
+| `--network` | Réseau utilisé | `docker run --network mon-reseau nginx` |
