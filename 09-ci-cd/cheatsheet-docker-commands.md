@@ -32,3 +32,14 @@
 | `docker inspect <conteneur>` | Affiche les détails | `docker inspect mon-nginx` |
 | `docker stats <conteneur>` | Affiche les statistiques | `docker stats mon-nginx` |
 | `docker exec -it <conteneur> <cmd>` | Exécute une commande | `docker exec -it mon-nginx bash` |
+
+## Volumes Docker
+
+| Commande | Description | Exemple |
+|----------|-------------|---------|
+| `docker volume create <nom>` | Crée un volume | `docker volume create mes-donnees` |
+| `docker volume ls` | Liste les volumes | `docker volume ls` |
+| `docker volume inspect <volume>` | Inspecte un volume | `docker volume inspect mes-donnees` |
+| `docker volume rm <volume>` | Supprime un volume | `docker volume rm mes-donnees` |
+| `docker run -v <volume>:<chemin>` | Monte un volume | `docker run -v mes-donnees:/data nginx` |
+| `docker run -v <hôte>:<conteneur>` | Monte un dossier (bind) | `docker run -v $(pwd):/app node` |
