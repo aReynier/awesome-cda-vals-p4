@@ -54,3 +54,13 @@
 | `docker network rm <réseau>` | Supprime un réseau | `docker network rm mon-reseau` |
 | `docker network connect <réseau> <conteneur>` | Connecte au réseau | `docker network connect mon-reseau mon-nginx` |
 | `docker network disconnect <réseau> <conteneur>` | Déconnecte du réseau | `docker network disconnect mon-reseau mon-nginx` |
+
+## Docker Compose
+
+| Commande | Description | Exemple |
+|----------|-------------|---------|
+| `docker-compose up` | Démarre les services | `docker-compose up -d` |
+| `docker-compose down` | Arrête les services | `docker-compose down` |
+| `docker-compose ps` | Liste les services | `docker-compose ps` |
+| `docker-compose logs` | Affiche les logs | `docker-compose logs api` |
+| `docker-compose restart` | Redémarre les services | `docker-compose restart` |
