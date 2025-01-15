@@ -43,3 +43,14 @@
 | `docker volume rm <volume>` | Supprime un volume | `docker volume rm mes-donnees` |
 | `docker run -v <volume>:<chemin>` | Monte un volume | `docker run -v mes-donnees:/data nginx` |
 | `docker run -v <hôte>:<conteneur>` | Monte un dossier (bind) | `docker run -v $(pwd):/app node` |
+
+## Réseaux Docker
+
+| Commande | Description | Exemple |
+|----------|-------------|---------|
+| `docker network create <nom>` | Crée un réseau | `docker network create mon-reseau` |
+| `docker network ls` | Liste les réseaux | `docker network ls` |
+| `docker network inspect <réseau>` | Inspecte un réseau | `docker network inspect mon-reseau` |
+| `docker network rm <réseau>` | Supprime un réseau | `docker network rm mon-reseau` |
+| `docker network connect <réseau> <conteneur>` | Connecte au réseau | `docker network connect mon-reseau mon-nginx` |
+| `docker network disconnect <réseau> <conteneur>` | Déconnecte du réseau | `docker network disconnect mon-reseau mon-nginx` |
