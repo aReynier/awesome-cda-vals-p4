@@ -47,6 +47,7 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
     - [Choix de la stack technique](./08-technical-stack/08-01-technical-stack.md)
 - CI/CD *(compétence 10+11)*
     - [CI/CD](./09-ci-cd/09-01-ci-cd.md)
+    - [Cheatsheet docker](./09-ci-cd/cheatsheet-docker-commands.md)
 - Développement D'API (back-end) *(compétence 3+8)*
     - [Développement d'API](./10-api-development/10-01-api-development.md)
 - Testing *(compétence 9)*
