@@ -1,10 +1,10 @@
 # awesome cda vals p4
 
-✨Bienvenue sur cet Awesome✨
+✨ Bienvenue sur cet Awesome ✨
 
 Le but de ce dépôt est de regrouper le meilleur des ressources partagées pendant la CDA, afin de pouvoir le conserver pour plus tard.
 
-Actuellement, le sommaire initial est calqué sur la chronologie des daily objectives, il évoluera peut être.
+Le sommaire suit actuellement la chronologie des daily objectives, mais il pourrait évoluer avec le temps et vos contributions.
 
 ## Sommaire
 - Généralités sur le titre CDA
@@ -94,25 +94,29 @@ Actuellement, le sommaire initial est calqué sur la chronologie des daily objec
 - Vrac/détente
     - [Vrac/détente](./19-miscellaneous-recreation/19-01-miscellaneous-recreation.md)
 
-## Contribution
+## Comment contribuer ? 
 
-Vous souhaitez contribuer?
+Envie de participer à cette belle aventure ? Super ! 🎉
 
-Tout d'abord un grand merci de souhaiter faire vivre ce dépôt.
+Voici comment faire :
 
-Pour y contribuer:
-- **1:** je vous invite à forker le dépôt. Comme il s'agit uniquement de documentation, une seule branche a été créee.
+### 1. Fork le dépôt
+Une seule branche existe car on est sur de la pure documentation. Pas besoin de se prendre la tête !
 
-- **2/a:** Lorsque vous souaitez ajouter un lien:
-    - Indiquer en quelques mots de contenu du lien
-    - Finir par deux points
-    - Le lien partagé une ligne plus bas:
+### 2. Ajouter du contenu
 
-**exemple:**\
-Site de Simplon:\
+#### Pour ajouter un lien
+C'est tout simple :
+- Une petite description du contenu
+- Deux petits points
+- Et le lien juste en dessous
+
+**Par exemple :**
+Site de Simplon :
 https://www.simplon.co/
 
-Au moment de faire un commit, bien qu'il ne s'agisse que de liens, allons quand même employer la convention angular pour garder de bonnes habitudes.
+#### Pour les commits
+On garde les bonnes habitudes avec la convention Angular (en anglais pour le moment, mais on peut passer en français si vous préférez).
 
 (je le fais en anglais, mais si vous préférez le français on pourra switcher de langue.)
 
@@ -120,15 +124,17 @@ Le principal ici est de mettre un "scope" correspond à la partie correpondante 
 ```
 docs(normal-forms): Add link
 ```
-Pour le moment je fixe à un commit par catégorie de lien, nous pourrons revoir cette règle si besoin.
-- **2/b:** Vous souhaitez modifier la structure? Dans ce cas là, je vous invite également à ajouter un scope si ça concerne une sous partie. Et dans l'intitullé il peut être bien d'indiquer l'opération, si il y a modification, suppression etc.
-- **2/c:** Toute correction est égelment la bienvenue, dans ces cas là, au lieu de docs, employez le mot clé fix:
-exemple
+
+Pour le moment, on fait un commit par catégorie de liens (on pourra adapter si besoin).
+
+#### Pour modifier la structure
+Même principe : utilisez un scope et précisez l'opération dans le titre.
+
+#### Pour les corrections
+Utilisez le mot-clé "fix" au lieu de "docs" :
 ```
-fix(README): correct some typos"
+fix(README): correct some typos
 ```
 
-- **3:** Enfin, l'idée est de le présenter en pull request. Pour le moment c'est la créatrice de ce dépôt qui les acceptera, mais si d'autres personnes se joignent au projet nous pourrons partager cette tâche.
-
-
-
+### 3. Pull Request
+Proposez vos modifications via une PR ! Pour l'instant c'est la créatrice du dépôt qui les valide, mais si la communauté grandit, on pourra partager cette responsabilité.
